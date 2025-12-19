@@ -1,3 +1,8 @@
+# Learn English for Kids
+A simple and fun web application built with Next.js to help kids learn basic English through interactive content.
+
+Rafael Domasig, Lirah Abaño, Jiro Alciera, Tonie Rose Balaguer
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
